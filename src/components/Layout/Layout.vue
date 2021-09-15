@@ -9,7 +9,7 @@
     </transition>
   </div>
   <footer class="contentFooter">
-    Light Blue Vue Admin Dashboard Template - Made by <a href="https://flatlogic.com" target="_blank">Flatlogic</a>
+    Dashboard Admin Template <a href="https://grupocloudspace.com/" target="_blank">Grupo CloudSpace</a>
   </footer>
 </div>
 </template>
